@@ -5,7 +5,7 @@ MEMBRES DU GROUPE
   - WADAMA ASSOUA ALEXANDRE 
   - SAMA KOFFI
   - BENIN LOU
-  -N'GATTA TCHA EUDOXIN
+  - N'GATTA TCHA EUDOXIN
   
  DESCRIPTION DU PROJET
  Le projet consiste à créer un logiciel de gestion des locations de véhicule
