@@ -1,0 +1,11 @@
+# GESTION DE LOCATION DE VEHICULE
+GROUPE NUMERO 6
+MEMBRES DU GROUPE
+  - TOGO SALIMATA
+  - WADAMA ASSOUA ALEXANDRE 
+  - SAMA KOFFI
+  - BENIN LOU
+  -N'GATTA TCHA EUDOXIN
+  
+ DESCRIPTION DU PROJET
+ Le projet consiste à créer un logiciel de gestion des locations de véhicule
